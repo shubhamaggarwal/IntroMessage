@@ -8,4 +8,4 @@
 3. Type ```sleep 20 && python /path/to/the/script/location/intro.py &```.
 4. Take care of that ```&``` at the end of command. The sleep command is so that the script doesn't run very early. So it waits for 20 seconds after the startup. You can change this according to your requirement.
 5. Now go to the location of script and type ```chmod a+x intro.py``` to make the script executable.
-6. Reboot and check :grinning:.
+6. Reboot and check :grinning: /play tada .
